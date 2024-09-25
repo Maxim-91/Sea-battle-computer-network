@@ -1,0 +1,1 @@
+The program was created in LabView using the TCP/IP transmission protocol and is an analogue of the game "Sea Battle". When working, it transfers data over the network from one computer to another, data transfer was not only from the server to the client, but also vice versa.
